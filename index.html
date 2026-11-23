@@ -66,7 +66,26 @@ main section{padding-top:75px;padding-bottom:75px}.sectiontop h2 span,.notice sp
 .gamebox{background:#0b1216;border-color:#a99a78}.gamehead h2{color:#e8c98e}
 @media(max-width:700px){.hero{min-height:680px;background-position:62% center}.hero:before{background:#02070b22}.hero h1{letter-spacing:-1px}.hero-content{padding-top:10px}.feature-strip{gap:7px}.feature-strip span{font-size:12px}.stats{gap:18px}}
 @media(prefers-reduced-motion:reduce){.hero:after{animation:none}}
-</style>
+@media (max-width: 600px) {
+  .logo {
+    font-size: 17px;
+    letter-spacing: 1px;
+  }
+
+  .card h3 {
+    font-size: 20px;
+  }
+
+  .card p {
+    font-size: 15px;
+    line-height: 1.5;
+  }
+
+  .play {
+    font-size: 16px;
+    padding: 12px 20px;
+  }
+ }</style>
 </head>
 <body>
 <header><div class="logo">THUNDER<b>ZONE</b></div><nav><a href="#home">Home</a><a href="#games">Games</a><a href="#about">About</a></nav><button class="navbtn" onclick="document.querySelector('#games').scrollIntoView({behavior:'smooth'})">PLAY NOW ⚡</button></header>
