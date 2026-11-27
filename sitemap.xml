@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://thunder-zone.pages.dev/</loc>
-  </url>
-  <url>
-    <loc>https://thunder-zone.pages.dev/about.html</loc>
-  </url>
-  <url>
-    <loc>https://thunder-zone.pages.dev/contact.html</loc>
-  </url>
-  <url>
-    <loc>https://thunder-zone.pages.dev/privacy-policy.html</loc>
-  </url>
+<url><loc>https://thunder-zone.pages.dev/</loc></url>
+<url><loc>https://thunder-zone.pages.dev/about</loc></url>
+<url><loc>https://thunder-zone.pages.dev/contact</loc></url>
+<url><loc>https://thunder-zone.pages.dev/privacy-policy</loc></url>
+<url><loc>https://thunder-zone.pages.dev/storm-arena</loc></url>
+<url><loc>https://thunder-zone.pages.dev/thunder-duel</loc></url>
+<url><loc>https://thunder-zone.pages.dev/neon-snake</loc></url>
+<url><loc>https://thunder-zone.pages.dev/cyber-pong</loc></url>
+<url><loc>https://thunder-zone.pages.dev/memory-matrix</loc></url>
+<url><loc>https://thunder-zone.pages.dev/tic-tac-toe</loc></url>
+<url><loc>https://thunder-zone.pages.dev/lightning-reflex</loc></url>
+<url><loc>https://thunder-zone.pages.dev/block-breaker</loc></url>
 </urlset>
