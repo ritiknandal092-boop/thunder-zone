@@ -1,0 +1,1 @@
+Prototype collection. Open index.html after extraction. Chess requires internet. Ludo is a simplified race variant; Battleground is non-combat storm escape. Existing game pages reused. Back up live site before uploading. Browser gameplay not tested.
